@@ -1,6 +1,6 @@
 ![Header](assets/header.jpg)
 
-# Hello, Earthlings! <img src="assets/wave.gif" width="30px" height="30px">
+# Hello, Earthlings! 🌍👋
 
 My name is [Iwobe](#) and I'm a full-stack developer/freelancer. I live in Abuja and currently working with KRL.
 
