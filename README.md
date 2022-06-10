@@ -53,6 +53,4 @@ Connect with me on socials: <a href="https://twitter.com/IwobeAigboje"><img src=
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 📈 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwobeearthy&layout=compact&theme=gruvbox)](https://github.com/iwobeearthy/github-readme-stats)
