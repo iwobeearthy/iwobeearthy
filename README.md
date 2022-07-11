@@ -2,7 +2,7 @@
 
 # Hello, Earthlings! 🌍👋
 
-My name is [Iwobe](#) and I'm a full-stack developer/freelancer. I live in Abuja and currently working with KRL.
+My name is [Iwobe](https://iwobe.com/) and I'm a full-stack developer/freelancer. I live in Abuja and currently working with KRL.
 
 Connect with me on socials: <a href="https://twitter.com/IwobeAigboje"><img src="assets/10060914141561032650.svg" alt="Twitter" width="18px" height="18px"></a> <a href="https://www.linkedin.com/in/iwobeaigboje/"><img src="assets/20687201081599781004.svg" alt="LinkedIn" width="18px" height="18px"></a> <a href="https://medium.com/@iwobe.aigboje"><img src="assets/10147872791530103316.svg" alt="Medium" width="18px" height="18px"></a> <a href="https://mastodon.social/web/@IwobeAigboje"><img src="assets/1591601681579517861.png" alt="Mastodon" width="18px" height="18px"></a>
 
